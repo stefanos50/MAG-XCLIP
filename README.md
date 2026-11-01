@@ -1,5 +1,16 @@
 # Motion-Aware Video Violence Detection
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PAPER-blue?style=for-the-badge&logo=IEEE&logoSize=auto">
+  </a>
+  <a href="https://drive.google.com/drive/folders/12pYjbj7M7pdvorcY3O-lhraM-jyFG7eb?usp=sharing" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/MODELS-orange?style=for-the-badge&logo=googledrive&logoSize=auto">
+  </a>
+</div>
+
+
+
 https://github.com/user-attachments/assets/9b952c6d-d436-4149-a13d-f35dd0037386
 
 ## Abstract
