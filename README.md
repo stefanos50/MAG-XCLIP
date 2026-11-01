@@ -1,4 +1,4 @@
-# Motion-Aware Video Violence Detection
+# MAG-XCLIP: Motion-Aware Gated Fusion for Robust Data-Efficient Violence Detection in Crowds
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <a href="" target="_blank">
