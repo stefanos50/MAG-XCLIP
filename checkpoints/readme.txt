@@ -1,0 +1,1 @@
+Add the MAG-XCLIP .pth models from here: https://drive.google.com/drive/folders/12pYjbj7M7pdvorcY3O-lhraM-jyFG7eb?usp=sharing 

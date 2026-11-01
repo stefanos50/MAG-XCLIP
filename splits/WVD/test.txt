@@ -1,0 +1,17 @@
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-MG-SunSetSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/cold-CrowBar-AfternoonSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-RifleBullpup-MiddaySunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/cold-Hammer-MorningSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/NotViolent/NotViolent-conversation-AfternoonSunny.avi 0
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-MGCombat-MorningSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-ShotgunAssault-MidNightSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/NotViolent/NotViolent-GetArrested-MiddaySunny.avi 0
+/data/CrowdAnalysisDatasets/WVD/Violent/cold-PipeWrench-DuskSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/NotViolent/NotViolent-Gardening-MorningSunny.avi 0
+/data/CrowdAnalysisDatasets/WVD/Violent/cold-Hatchet-MidNightSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-PistolAP-MorningSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-RifleCarbine-MorningSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/NotViolent/NotViolent-Pool-DuskSunny.avi 0
+/data/CrowdAnalysisDatasets/WVD/NotViolent/NotViolent-Yoga-AfternoonSunny.avi 0
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-PistolCombat-MorningSunny.avi 1
+/data/CrowdAnalysisDatasets/WVD/Violent/hot-ShotgunAssault-AfternoonSunny.avi 1

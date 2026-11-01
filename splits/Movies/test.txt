@@ -1,0 +1,20 @@
+E:\mag-xclip-main\movies_dataset\fights\newfi94.avi 1
+E:\mag-xclip-main\movies_dataset\fights\newfi36.avi 1
+E:\mag-xclip-main\movies_dataset\fights\newfi53.avi 1
+E:\mag-xclip-main\movies_dataset\noFights\24.mpg 0
+E:\mag-xclip-main\movies_dataset\fights\newfi92.avi 1
+E:\mag-xclip-main\movies_dataset\noFights\93.mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\38.mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\67 (1).mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\49.mpg 0
+E:\mag-xclip-main\movies_dataset\fights\newfi91.avi 1
+E:\mag-xclip-main\movies_dataset\noFights\52.mpg 0
+E:\mag-xclip-main\movies_dataset\fights\newfi35.avi 1
+E:\mag-xclip-main\movies_dataset\fights\newfi51.avi 1
+E:\mag-xclip-main\movies_dataset\fights\newfi96.avi 1
+E:\mag-xclip-main\movies_dataset\noFights\5.mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\37.mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\66.mpg 0
+E:\mag-xclip-main\movies_dataset\noFights\34.mpg 0
+E:\mag-xclip-main\movies_dataset\fights\newfi32.avi 1
+E:\mag-xclip-main\movies_dataset\fights\newfi31.avi 1
