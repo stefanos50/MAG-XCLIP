@@ -9,7 +9,7 @@
   </a>
 </div>
 
-
+## Demonstration
 
 https://github.com/user-attachments/assets/9b952c6d-d436-4149-a13d-f35dd0037386
 
@@ -145,5 +145,22 @@ python optimal_threshold.py
 ```
 
 The script searches 500 thresholds between 0 and 1, predicts violence when `probability > threshold`, selects the best **macro F1**, and displays a row-normalized confusion matrix. It prints the selected threshold, score, and matrix.
+
+## Citation
+
+If you used MAG-XCLIP in your research, please cite it as follows:
+
+```
+@ARTICLE{11267404,
+  author={Pasios, Stefanos and Gkountakos, Konstantinos and Ioannidis, Konstantinos and Tsikrika, Theodora and Vrochidis, Stefanos and Kompatsiaris, Ioannis},
+  journal={IEEE Access}, 
+  title={MAG-XCLIP: Motion-Aware Gated Fusion for Robust Data-Efficient Violence Detection in Crowds}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Videos;Synthetic data;Indoor environment;Photorealism;Engines;Annotations;Visualization;Training;Weapons;Lighting;Synthetic Dataset;Crowd Analysis;Abnormal Behavior Detection;Photorealism Enhancement;Unreal Engine},
+  doi={TBU}}
+```
 
 
