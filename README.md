@@ -1,7 +1,7 @@
 # MAG-XCLIP: Motion-Aware Gated Fusion for Robust Data-Efficient Violence Detection in Crowds
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="" target="_blank">
+  <a href="https://ieeexplore.ieee.org/document/11783397" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/PAPER-blue?style=for-the-badge&logo=IEEE&logoSize=auto">
   </a>
   <a href="https://drive.google.com/drive/folders/12pYjbj7M7pdvorcY3O-lhraM-jyFG7eb?usp=sharing" target="_blank">
@@ -151,7 +151,7 @@ The script searches 500 thresholds between 0 and 1, predicts violence when `prob
 If you used MAG-XCLIP in your research, please cite it as follows:
 
 ```
-@ARTICLE{11267404,
+@ARTICLE{11783397,
   author={Pasios, Stefanos and Gkountakos, Konstantinos and Ioannidis, Konstantinos and Tsikrika, Theodora and Vrochidis, Stefanos and Kompatsiaris, Ioannis},
   journal={IEEE Access}, 
   title={MAG-XCLIP: Motion-Aware Gated Fusion for Robust Data-Efficient Violence Detection in Crowds}, 
@@ -159,8 +159,8 @@ If you used MAG-XCLIP in your research, please cite it as follows:
   volume={},
   number={},
   pages={1-1},
-  keywords={Videos;Synthetic data;Indoor environment;Photorealism;Engines;Annotations;Visualization;Training;Weapons;Lighting;Synthetic Dataset;Crowd Analysis;Abnormal Behavior Detection;Photorealism Enhancement;Unreal Engine},
-  doi={TBU}}
+  keywords={Modeling;Signal detection;Training;Videos;Optical flow;Cameras;Architecture;Computer architecture;Hafnium;Learning (artificial intelligence);Violence Detection;Crowd Analysis;Multi-modal Fusion;Data-efficient Learning},
+  doi={10.1109/ACCESS.2026.3751861}}
 ```
 
 
